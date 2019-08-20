@@ -2592,7 +2592,8 @@ input, select, textarea {
 			display: inline-block;
 			position: relative;
 			object-fit: contain;
-			
+			width: 500px;
+			height: 500px;
 			/* display: block; */
 		}
 
