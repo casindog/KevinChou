@@ -2578,18 +2578,21 @@ input, select, textarea {
 
 /* Image */
 
-	.image {
+	/* .image {
 		border-radius: 0.25em;
 		border: 0;
 		display: inline-block;
 		position: relative;
 
-	}
+	} */
 
-		.image img {
+		img {
 			border-radius: 0.25em;
+			border: 0;
+			display: inline-block;
+			position: relative;
 			object-fit: contain;
-
+			
 			/* display: block; */
 		}
 
